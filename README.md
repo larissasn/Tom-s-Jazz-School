@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="https://raw.githubusercontent.com/larissasn/Tom-s-Jazz-School/2113eeefda87033f7db6c392f7d5e2320943f495/img/preview.png" width="100%" />
+  <img alt="" src="" width="100%" />
 </p>
 
 # 📄 Description:
